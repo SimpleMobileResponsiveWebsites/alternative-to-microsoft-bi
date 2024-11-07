@@ -2,14 +2,12 @@ import streamlit as st
 import pandas as pd
 import json
 import xml.etree.ElementTree as ET
-import pdfplumber
-import io
 
 # Set up the page title
 st.title("Data Upload Application")
 
 # File uploader for various formats
-uploaded_file = st.file_uploader("Upload a file", type=["xlsx", "csv", "json", "xml", "pdf"])
+uploaded_file = st.file_uploader("Upload a file", type=["xlsx", "csv", "json", "xml"])
 
 if uploaded_file:
     # Determine file type and process accordingly
@@ -43,12 +41,3 @@ if uploaded_file:
         st.write("### XML File Data")
         df = pd.DataFrame(xml_data)
         st.dataframe(df)
-
-    elif uploaded_file.name.endswith('.pdf'):
-        # Load PDF file
-        with pdfplumber.open(uploaded_file) as pdf:
-            pdf_text = ""
-            for page in pdf.pages:
-                pdf_text += page.extract_text()
-        st.write("### PDF File Text")
-        st.text(pdf_text)
