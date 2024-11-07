@@ -1,0 +1,147 @@
+<dataset>
+  <record>
+    <Symptom>Persistent worrying or anxiety out of proportion to events</Symptom>
+    <Severity>Mild</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Overthinking plans and worst-case outcomes</Symptom>
+    <Severity>Mild</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Perceiving situations/events as threatening</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Difficulty handling uncertainty</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Indecisiveness and fear of making wrong decisions</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Inability to set aside or let go of a worry</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Inability to relax, feeling restless, on edge</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Difficulty concentrating or mind going blank</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Fatigue</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Trouble sleeping</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Muscle tension or aches</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Trembling, twitchiness</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Nervousness or being easily startled</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Sweating</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Nausea, diarrhea or irritable bowel syndrome</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Irritability</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Excessive worries about school/sports performance</Symptom>
+    <Severity>Mild</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Excessive worries about family safety</Symptom>
+    <Severity>Mild</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Excessive worries about punctuality</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Excessive worries about catastrophic events</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Feeling overly anxious to fit in</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Being a perfectionist</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Redoing tasks because they aren’t perfect</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Spending excessive time on homework</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Lack of confidence</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Striving for approval</Symptom>
+    <Severity>Severe</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Requiring reassurance about performance</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Frequent stomachaches or physical complaints</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+  <record>
+    <Symptom>Avoiding school or social situations</Symptom>
+    <Severity>Moderate</Severity>
+    <Notes>test</Notes>
+  </record>
+</dataset>
