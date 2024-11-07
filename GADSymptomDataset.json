@@ -1,0 +1,147 @@
+[
+  {
+    "Symptom": "Persistent worrying or anxiety out of proportion to events",
+    "Severity": "Mild",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Overthinking plans and worst-case outcomes",
+    "Severity": "Mild",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Perceiving situations/events as threatening",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Difficulty handling uncertainty",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Indecisiveness and fear of making wrong decisions",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Inability to set aside or let go of a worry",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Inability to relax, feeling restless, on edge",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Difficulty concentrating or mind going blank",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Fatigue",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Trouble sleeping",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Muscle tension or aches",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Trembling, twitchiness",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Nervousness or being easily startled",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Sweating",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Nausea, diarrhea or irritable bowel syndrome",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Irritability",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Excessive worries about school/sports performance",
+    "Severity": "Mild",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Excessive worries about family safety",
+    "Severity": "Mild",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Excessive worries about punctuality",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Excessive worries about catastrophic events",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Feeling overly anxious to fit in",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Being a perfectionist",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Redoing tasks because they aren’t perfect",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Spending excessive time on homework",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Lack of confidence",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Striving for approval",
+    "Severity": "Severe",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Requiring reassurance about performance",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Frequent stomachaches or physical complaints",
+    "Severity": "Moderate",
+    "Notes": "test"
+  },
+  {
+    "Symptom": "Avoiding school or social situations",
+    "Severity": "Moderate",
+    "Notes": "test"
+  }
+]
