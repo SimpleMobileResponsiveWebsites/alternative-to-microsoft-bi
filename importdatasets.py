@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import json
 import xml.etree.ElementTree as ET
-from sqlalchemy import create_engine
 import pdfplumber
 import io
 
@@ -53,36 +52,3 @@ if uploaded_file:
                 pdf_text += page.extract_text()
         st.write("### PDF File Text")
         st.text(pdf_text)
-
-# Optional: Connect to SQL databases if needed
-st.write("---")
-st.write("### Connect to SQL Database")
-
-# Set up database connection fields
-db_type = st.selectbox("Database Type", ["MySQL", "PostgreSQL", "SQLite", "SQL Server"])
-db_host = st.text_input("Database Host")
-db_user = st.text_input("Username")
-db_pass = st.text_input("Password", type="password")
-db_name = st.text_input("Database Name")
-
-if st.button("Connect to Database"):
-    # Construct the database URL based on the selected type
-    if db_type == "MySQL":
-        db_url = f"mysql+pymysql://{db_user}:{db_pass}@{db_host}/{db_name}"
-    elif db_type == "PostgreSQL":
-        db_url = f"postgresql://{db_user}:{db_pass}@{db_host}/{db_name}"
-    elif db_type == "SQLite":
-        db_url = f"sqlite:///{db_name}"
-    elif db_type == "SQL Server":
-        db_url = f"mssql+pyodbc://{db_user}:{db_pass}@{db_host}/{db_name}?driver=SQL+Server"
-    
-    try:
-        engine = create_engine(db_url)
-        st.success("Connected to the database!")
-        query = st.text_area("Enter SQL Query")
-        if st.button("Execute Query"):
-            query_result = pd.read_sql_query(query, engine)
-            st.write("### Query Result")
-            st.dataframe(query_result)
-    except Exception as e:
-        st.error(f"Error connecting to the database: {e}")
