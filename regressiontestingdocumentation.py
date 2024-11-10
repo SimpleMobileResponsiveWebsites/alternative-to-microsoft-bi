@@ -4,3 +4,9 @@
 
 # iteration 4
 # designed an additional test dataset to test the application correclty.
+
+# iteration 5 
+# many visualziations work 
+
+# iteration 6 
+# odd / unique chart types development + testing 
